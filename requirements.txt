@@ -1,0 +1,4 @@
+kivy==2.2.1
+plyer==2.1.0
+geocoder==1.38.1
+requests==2.31.0
